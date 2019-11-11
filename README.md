@@ -20,7 +20,7 @@ This repository of game materials from across the history of *FISRT* robotics wa
 
 | Year | Name | Game Manual part 1 | Game Manual part 2 |
 | --- | --- | --- | --- |
-| 2019 | Skystone | [Game Manual part 1](FTC/FTC-2019-Skystone/game-manual-part-1.pdf) | [Game Manual part 2]FTC/FTC-2019-Skystone/game-manual-part-2.pdf) |
+| 2019 | Skystone | [Game Manual part 1](FTC/FTC-2019-Skystone/game-manual-part-1.pdf) | [Game Manual part 2](FTC/FTC-2019-Skystone/game-manual-part-2.pdf) |
 | 2018 | Relic Recovery | [Game Manual part 1](FTC/FTC-2018-RelicRecovery/game-manual-part-1.pdf) | [Game Manual part 2](FTC/FTC-2018-RelicRecovery/game-manual-part-2.pdf) |
 | 2017 | Velocity Vortex | no | no |
 | 2016 | RES-Q | [Game Manual part 1](FTC/FTC-2016-RES-Q/game-manual-part-1.pdf) | [Game Manual part 1](FTC/FTC-2016-RES-Q/game-manual-part-1.pdf) |
@@ -30,7 +30,7 @@ This repository of game materials from across the history of *FISRT* robotics wa
 
 | Year | Name | Challenge | Build Instructions |
 | --- | --- | --- | --- |
-| 2019 | City Shaper | [Challenge](FLL/FLL-2019-CityShaper/challenge.pdf) | [Build Instructions](FLL\FLL-2019-CityShaper/Build Instructions)
+| 2019 | City Shaper | [Challenge](FLL/FLL-2019-CityShaper/challenge.pdf) | [Build Instructions](FLL\FLL-2019-CityShaper/Build%20Instructions)
 | 2018 | Into Orbit |
 | 2017 | Hydro Dynamics |
 | 2016 | Animal Allies |
