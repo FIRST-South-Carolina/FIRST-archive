@@ -19,4 +19,4 @@ This repository of game materials from across the history of *FISRT* robotics wa
 
 | Year | Name | Game Manual part 1 | Game Manual part 2 |
 | --- | --- | --- | --- |
-| 2019 | Skystone | [Game Manual part 1] (/FTC/FTC - 2019 - Skystone/game-manual-part-1.pdf) | [Game Manual part 2] game-manual-part-2.pdf |
+| 2019 | Skystone | [Game Manual part 1] (FTC/FTC-2019-Skystone/game-manual-part-1.pdf) | [Game Manual part 2] game-manual-part-2.pdf |
