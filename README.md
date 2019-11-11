@@ -31,7 +31,7 @@ This repository of game materials from across the history of *FISRT* robotics wa
 | Year | Name | Challenge | Build Instructions |
 | --- | --- | --- | --- |
 | 2019 | City Shaper | [Challenge](FLL/FLL-2019-CityShaper/challenge.pdf) | [Build Instructions](FLL/FLL-2019-CityShaper/Build%20Instructions)
-| 2018 | Into Orbit |
+| 2018 | Into Orbit |[Challenge](FLL/FLL-2018-IntoOrbit/challenge.pdf) | [Build%20Instructions](FLL/FLL-2018-IntoOrbit/Build%20Instructions) |
 | 2017 | Hydro Dynamics |
 | 2016 | Animal Allies |
 | 2015 | Trash Trek |
