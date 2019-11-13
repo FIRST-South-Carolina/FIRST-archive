@@ -98,6 +98,7 @@ This repository of game materials from across the history of *FISRT* robotics wa
 
 | Year | Name | Challenge | Build Instructions |
 | --- | --- | --- | --- |
+| 2019 | Boomtown Build | [Challenge](FLLJr/FLLJr-2019-BoomtownBuild/boomtown-build-challenge.pdf) | [Build Instructions](FLLJr/FLLJr-2019-BoomtownBuild/Build%20Instructions)
 | 2018 | Mission Moon | [Challenge](FLLJr/FLLJr-2018-MissionMoon/Mission_Moon_Build_Instructions.pdf) | [Build Instructions](FLLJr/FLLJr-2018-MissionMoon/Mission_Moon_Build_Instructions.pdf) |
 | 2017 | Aqua Adventure | [Challenge](FLLJr/FLLJr-2017-AquaAdventure/aqua-adventure-challenge-letter.pdf) | [Build Instructions](FLLJr/FLLJr-2017-AquaAdventure/Build%20Instructions)
 | 2016 | Creature Craze | [Challenge](FLLJr/FLLJr-2016-CreatureCraze/creaturecraze-challengedocument.pdf) |
