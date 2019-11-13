@@ -73,13 +73,13 @@ This repository of game materials from across the history of *FISRT* robotics wa
 | 2019 | City Shaper | [Challenge](FLL/FLL-2019-CityShaper/challenge.pdf) | [Build Instructions](FLL/FLL-2019-CityShaper/Build%20Instructions)
 | 2018 | Into Orbit |[Challenge](FLL/FLL-2018-IntoOrbit/challenge.pdf) | [Build Instructions](FLL/FLL-2018-IntoOrbit/Build%20Instructions) |
 | 2017 | Hydro Dynamics | [Challenge](FLL/FLL-2017-HydroDynamics/challenge%20guide.pdf) | [Build Instructions](FLL/FLL-2017-HydroDynamics/Build%20Instructions)
-| 2016 | Animal Allies |
-| 2015 | Trash Trek |
-| 2014 | World Class |
-| 2013 | Nature's Fury |
-| 2012 | Senior Solutions |
-| 2011 | Food Factor |
-| 2010 | Body Forward |
+| 2016 | Animal Allies | [Challenge](FLL/FLL-2016-AnimalAllies/challenge%20guide.pdf) | [Build Instructions](FLL/FLL-2016-AnimalAllies/Build%20Instructions) |
+| 2015 | Trash Trek | [Challenge](FLL/FLL-2015-TrashTrek/challenge.pdf) | [Build Instructions](FLL/FLL-2015-TrashTrek/Build%20Instructions) |
+| 2014 | World Class | [Challenge](FLL/FLL-2014-WorldClass/challenge.pdf) | [Build Instructions](FLL/FLL-2014-WorldClass/Build%20Instructions) |
+| 2013 | Nature's Fury | [Challenge](FLL/FLL-2013-Nature'sFury/challenge.pdf) | [Build Instructions](FLL/FLL-2013-Nature'sFury/Build%20Instructions) |
+| 2012 | Senior Solutions | [Challenge](FLL/FLL-2012-SeniorSolutions/challenge.pdf) | [Build Instructions](FLL/FLL-2012-SeniorSolutions/Build%20Instructions) |
+| 2011 | Food Factor | [Challenge](FLL/FLL-2011-FoodFactor/challenge.pdf) |
+| 2010 | Body Forward | [Challenge](FLL/FLL-2010-BodyForward/challenge.pdf) |
 | 2009 | Smart Move |
 | 2008 | Climate Connections |
 | 2007 | Power Puzzle |
