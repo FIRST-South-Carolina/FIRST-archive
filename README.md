@@ -1,7 +1,7 @@
 # FIRST-archive
 This repository of game materials from across the history of *FISRT* robotics was started as the official archives are lacking a lot of resources.
 
-| Program | Offical Archive link |
+| Program | Offical *FIRST* Archive link |
 | --- | --- |
 | FRC | https://www.firstinspires.org/resource-library/frc/archived-game-documentation |
 | FTC | https://www.firstinspires.org/resource-library/ftc/archived-game-documentation |
@@ -11,27 +11,27 @@ This repository of game materials from across the history of *FISRT* robotics wa
 
 ## FRC
 
-| Year | Name | Game Manual | Updates | Inspection Checklist | KOP | Spectator Flyer |
-| --- | --- | --- | --- | --- | --- | --- |
-| 2020 | Infinite Recharge | --- | --- | --- | --- | --- |
-| 2019 | Destination Deep Space | yes | yes | yes | yes | yes |
-| 2018 | FIRST Power Up | 
-| 2017 | FIRST Steamworks |
-| 2016 | FIRST Stronghold |
-| 2015 | Recycle Rush |
-| 2014 | Aerial Assist |
-| 2013 | Ultimate Ascent |
-| 2012 | Rebound Rumble |
-| 2011 | Logo Motion |
-| 2010 | Breakaway |
-| 2009 | Lunacy |
-| 2008 | FIRST Overdrive |
-| 2007 | Rack 'n Roll |
+| Year | Name | Game Manual | Updates | Spectator Flyer |
+| --- | --- | --- | --- | --- |
+| 2020 | Infinite Recharge | --- | --- | --- |
+| 2019 | Destination Deep Space | [Game Manual](FRC/FRC-2019-DestinationDeepSpace/2019FRCGameSeasonManual.pdf) | [Updates](FRC/FRC-2019-DestinationDeepSpace/TeamUpdates-combined.pdf) | [Spectator Flyer](FRC/FRC-2019-DestinationDeepSpace/frc19-fr021-spectator-flyer.pdf) |
+| 2018 | FIRST Power Up | [Game Manual](FRC/FRC-2018-PowerUp/2018FRCGameSeasonManual.pdf) | [Updates](FRC/FRC-2018-PowerUp/TeamUpdates-combined.pdf) | [Spectator Flyer](FRC/FRC-2018-PowerUp/first-spectatorflyer18-frc-ltr-dec-form.pdf) |
+| 2017 | FIRST Steamworks | [Game Manual](FRC/FRC-2017-Steamworks/2017FRCGameSeasonManual.pdf) | [Updates](FRC/FRC-2017-Steamworks/TeamUpdates-combined.pdf) | [Spectator Flyer](FRC/FRC-2017-Steamworks/FIRST-FRC-SpectatorFlyer'17-FR021-FORM.pdf) |
+| 2016 | FIRST Stronghold | [Game Manual](FRC/FRC-2016-Stronghold/FRC-2016-game-manual.pdf) | [Updates](FRC/FRC-2016-Stronghold/2016TeamUpdatesComplete.pdf) |
+| 2015 | Recycle Rush | [Game Manual](FRC/FRC-2015-RecycleRush/GameManual20150407.pdf) | [Updates](FRC/FRC-2015-RecycleRush/TeamUpdateBundle20150421.pdf) | [Spectator Flyer](FRC/FRC-2015-RecycleRush/2015-frc-game-description-1page.pdf) |
+| 2014 | Aerial Assist | [Game Manual](FRC/FRC-2014-AerialAssist/2014-game-manual.pdf) | [Updates](FRC/FRC-2014-AerialAssist/2014-frc-team-updates.pdf) | [Spectator Flyer](FRC/FRC-2014-AerialAssist/2014-frc-game-1page.pdf) |
+| 2013 | Ultimate Ascent | [Game Manual](FRC/FRC-2013-UltimateAscent/2013-game-manual.pdf) | [Updates](FRC/FRC-2013-UltimateAscent/2013-team-updates.pdf) | [Spectator Flyer](FRC/FRC-2013-UltimateAscent/2013-frc-game-1page.pdf) |
+| 2012 | Rebound Rumble | [Game Manual](FRC/FRC-2012-ReboundRumble/2012-frc-competition-manual-game-sec1-5.pdf) | [Updates](FRC/FRC-2012-ReboundRumble/2012-frc-competition-manual-updates.pdf) | [Spectator Flyer](FRC/FRC-2012-ReboundRumble/2012-game-description-1page.pdf) |
+| 2011 | Logo Motion | [Game Manual](FRC/FRC-2011-LogoMotion/2011-logomotion-game-manual.pdf) | [Updates](FRC/FRC-2011-LogoMotion/2011-logomotion-team-updates.pdf) | [Spectator Flyer](FRC/FRC-2011-LogoMotion/2011-logomotion-one-page.pdf) |
+| 2010 | Breakaway | [Game Manual](FRC/FRC-2010-Breakaway/2010-breakaway-complete-manual.pdf) | [Updates](FRC/FRC-2010-Breakaway/2010-breakaway-team-updates.pdf) |
+| 2009 | Lunacy | [Game Manual](FRC/FRC-2009-Lunacy/2009-lunacy-complete-manual.pdf) | [Updates](FRC/FRC-2009-Lunacy/2009-team-updates.pdf) |
+| 2008 | FIRST Overdrive | [Game Manual](FRC/FRC-2008-Overdrive/2008-overdrive-manual.pdf) | [Updates](FRC/FRC-2008-Overdrive/2008-overdrive-team-updates.pdf) |
+| 2007 | Rack 'n Roll | [Game Manual](FRC/FRC-2007-RackNRoll/2007-racknroll-manual.pdf) |
 | 2006 | Aim High |
-| 2005 | Triple Play |
-| 2004 | FIRST Frenzy: Raising the Bar |
-| 2003 | Stack Attack |
-| 2002 | Zone Zeal |
+| 2005 | Triple Play | [The Game](FRC/FRC-2005-TriplePlay/2005-the-game.pdf) [The Arena](FRC/FRC-2005-TriplePlay/2005-the-arena.pdf) |
+| 2004 | FIRST Frenzy: Raising the Bar | [The Game](FRC/FRC-2004-Frenzy/2004-the-game.pdf) [The Arena](FRC/FRC-2004-Frenzy/2004-the-arena.pdf) |
+| 2003 | Stack Attack | [The Game](FRC/FRC-2003-StackAttack/2003-the-game.pdf) [The Arena](FRC/FRC-2003-StackAttack/2003-the-arena.pdf) |
+| 2002 | Zone Zeal | [Game Manual](FRC/FRC-2002-ZoneZeal/2002-game-manual.pdf)
 | 2001 | Diabolical Dynamics |
 | 2000 | Co-Opertition FIRST |
 | 1999 | Double Trouble |
