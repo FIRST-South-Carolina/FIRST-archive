@@ -54,8 +54,8 @@ This repository of game materials from across the history of *FISRT* robotics wa
 | 2017 | Relic Recovery | [Game Manual part 1](FTC/FTC-2017-RelicRecovery/game-manual-part-1.pdf) | [Game Manual part 2](FTC/FTC-2017-RelicRecovery/game-manual-part-2.pdf) |
 | 2016 | Velocity Vortex | no | [Game Manual part 2](FTC/FTC-2016-VelocityVortex/game-manual-part-2.pdf) |
 | 2015 | RES-Q | [Game Manual part 1](FTC/FTC-2015-RES-Q/game-manual-part-1.pdf) | [Game Manual part 2](FTC/FTC-2015-RES-Q/game-manual-part-2.pdf) |
-| 2014 | Cascade Effect | no | [Game Manual part 2](FTC/FTC-2014-CascadeEffect/game-manual-part-2.pdf |
-| 2013 | Block Party! | [Game Manual part 1](FTC/FTC-2013-BlockParty/game-manual-part-1.pdf) | [Game Manual part 2](FTC/FTC-2013-BlockParty/game-manual-part-2.pdf |
+| 2014 | Cascade Effect | no | [Game Manual part 2](FTC/FTC-2014-CascadeEffect/game-manual-part-2.pdf) |
+| 2013 | Block Party! | [Game Manual part 1](FTC/FTC-2013-BlockParty/game-manual-part-1.pdf) | [Game Manual part 2](FTC/FTC-2013-BlockParty/game-manual-part-2.pdf) |
 | 2012 | Ring It Up! | no | no |
 | 2011 | Bowled Over! | no | no |
 | 2010 | Get Over It! | no | no |
