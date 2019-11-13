@@ -28,9 +28,9 @@ This repository of game materials from across the history of *FISRT* robotics wa
 | 2008 | FIRST Overdrive | [Game Manual](FRC/FRC-2008-Overdrive/2008-overdrive-manual.pdf) | [Updates](FRC/FRC-2008-Overdrive/2008-overdrive-team-updates.pdf) |
 | 2007 | Rack 'n Roll | [Game Manual](FRC/FRC-2007-RackNRoll/2007-racknroll-manual.pdf) |
 | 2006 | Aim High |
-| 2005 | Triple Play | [The Game](FRC/FRC-2005-TriplePlay/2005-the-game.pdf) [The Arena](FRC/FRC-2005-TriplePlay/2005-the-arena.pdf) |
-| 2004 | FIRST Frenzy: Raising the Bar | [The Game](FRC/FRC-2004-Frenzy/2004-the-game.pdf) [The Arena](FRC/FRC-2004-Frenzy/2004-the-arena.pdf) |
-| 2003 | Stack Attack | [The Game](FRC/FRC-2003-StackAttack/2003-the-game.pdf) [The Arena](FRC/FRC-2003-StackAttack/2003-the-arena.pdf) |
+| 2005 | Triple Play | [The Game](FRC/FRC-2005-TriplePlay/2005-the-game.pdf) \| [The Arena](FRC/FRC-2005-TriplePlay/2005-the-arena.pdf) |
+| 2004 | FIRST Frenzy: Raising the Bar | [The Game](FRC/FRC-2004-Frenzy/2004-the-game.pdf) \| [The Arena](FRC/FRC-2004-Frenzy/2004-the-arena.pdf) |
+| 2003 | Stack Attack | [The Game](FRC/FRC-2003-StackAttack/2003-the-game.pdf) \| [The Arena](FRC/FRC-2003-StackAttack/2003-the-arena.pdf) |
 | 2002 | Zone Zeal | [Game Manual](FRC/FRC-2002-ZoneZeal/2002-game-manual.pdf)
 | 2001 | Diabolical Dynamics |
 | 2000 | Co-Opertition FIRST |
