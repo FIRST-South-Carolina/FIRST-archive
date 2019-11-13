@@ -96,20 +96,20 @@ This repository of game materials from across the history of *FISRT* robotics wa
 
 ## FLL Jr.
 
-| Year | Name | 
-| --- | --- |
-| 2018 | Mission Moon |
-| 2017 | Aqua Adventure |
-| 2016 | Creature Craze |
-| 2015 | Waste Wise |
-| 2014 | Think Tank |
-| 2013 | Disaster Blaster |
-| 2012 | Super Seniors |
-| 2011 | Snack Attack |
-| 2010 | Body Forward |
-| 2009 | Smart Move |
-| 2008 | Climate Connections |
-| 2007 | Power Puzzle |
-| 2006 | Nano Quest |
-| 2005 | Ocean Odyssey |
+| Year | Name | Challenge | Build Instructions |
+| --- | --- | --- | --- |
+| 2018 | Mission Moon | [Challenge](FLLJr/FLLJr-2018-MissionMoon/Mission_Moon_Build_Instructions.pdf) | [Build Instructions](FLLJr/FLLJr-2018-MissionMoon/Mission_Moon_Build_Instructions.pdf) |
+| 2017 | Aqua Adventure | [Challenge](FLLJr/FLLJr-2017-AquaAdventure/aqua-adventure-challenge-letter.pdf) | [Build Instructions](FLLJr/FLLJr-2017-AquaAdventure/Build%20Instructions)
+| 2016 | Creature Craze | [Challenge](FLLJr/FLLJr-2016-CreatureCraze/creaturecraze-challengedocument.pdf) |
+| 2015 | Waste Wise | [Challenge](FLLJr/FLLJr-2015-WasteWise/2015-waste-wise.pdf) |
+| 2014 | Think Tank | [Challenge](FLLJr/FLLJr-2014-ThinkTank/flljr-2014-jrfll-think-tank.pdf) |
+| 2013 | Disaster Blaster | [Challenge](FLLJr/FLLJr-2013-DisasterBlaster/flljr-2013-disaster-blaster.pdf) |
+| 2012 | Super Seniors | [Challenge](FLLJr/FLLJr-2012-SuperSeniors/flljr-2012-super-seniors.pdf) |
+| 2011 | Snack Attack | [Challenge](FLLJr/FLLJr-2011-SnackAttack/flljr-2011-snack-attack.pdf) |
+| 2010 | Body Forward | [Challenge](FLLJr/FLLJr-2010-BodyForward/flljr-2010-body-forward.pdf) |
+| 2009 | Smart Move | [Challenge](FLLJr/FLLJr-2009-SmartMove/flljr-2009-smart-move.pdf) |
+| 2008 | Climate Connections | [Challenge](FLLJr/FLLJr-2008-ClimateConnections/flljr-2008-climate-connections.pdf) |
+| 2007 | Power Puzzle | [Challenge](FLLJr/FLLJr-2007-PowerPuzzle/flljr-2007-power-puzzle.pdf) |
+| 2006 | Nano Quest | [Challenge](FLLJr/FLLJr-2006-NanoQuest/flljr-2006-nano-quest.pdf) |
+| 2005 | Ocean Odyssey | [Challenge](FLLJr/FLLJr-2005-OceanOdyssey/flljr-2005-ocean-odyssey.pdf) |
 | 2004 | No Limits (Disabilities) |
