@@ -78,12 +78,12 @@ This repository of game materials from across the history of *FISRT* robotics wa
 | 2014 | World Class | [Challenge](FLL/FLL-2014-WorldClass/challenge.pdf) | [Build Instructions](FLL/FLL-2014-WorldClass/Build%20Instructions) |
 | 2013 | Nature's Fury | [Challenge](FLL/FLL-2013-NaturesFury/challenge.pdf) | [Build Instructions](FLL/FLL-2013-NaturesFury/Build%20Instructions) |
 | 2012 | Senior Solutions | [Challenge](FLL/FLL-2012-SeniorSolutions/challenge.pdf) | [Build Instructions](FLL/FLL-2012-SeniorSolutions/Build%20Instructions) |
-| 2011 | Food Factor | [Challenge](FLL/FLL-2011-FoodFactor/challenge.pdf) |
-| 2010 | Body Forward | [Challenge](FLL/FLL-2010-BodyForward/challenge.pdf) |
-| 2009 | Smart Move |
-| 2008 | Climate Connections |
-| 2007 | Power Puzzle |
-| 2006 | Nano Quest |
+| 2011 | Food Factor | [Challenge](FLL/FLL-2011-FoodFactor/challenge.pdf) | [Build Instructions](FLL/FLL-2011-FoodFactor/Build%20Instructions) |
+| 2010 | Body Forward | [Challenge](FLL/FLL-2010-BodyForward/challenge.pdf) | [Build Instructions](FLL/FLL-2010-BodyForward/Build%20Instructions) |
+| 2009 | Smart Move | [Challenge](FLL/FLL-2009-SmartMove/challenge.pdf) | [Build Instructions](FLL/FLL-2009-SmartMove/Build%20Instructions) |
+| 2008 | Climate Connections | [Challenge](FLL/FLL-2008-ClimateConnections/challenge.pdf) | [Build Instructions](FLL/FLL-2008-ClimateConnections/Build%20Instructions) |
+| 2007 | Power Puzzle | [Challenge](FLL/FLL-2007-PowerPuzzle/challenge.pdf) | [Build Instructions](FLL/FLL-2007-PowerPuzzle/Build%20Instructions) |
+| 2006 | Nano Quest | [Challenge](FLL/FLL-2006-NanoQuest/challenge.pdf) | [Build Instructions](FLL/FLL-2006-NanoQuest/Build%20Instructions) |
 | 2005 | Ocean Odyssey |
 | 2004 | No Limits |
 | 2003 | Mission Mars |
