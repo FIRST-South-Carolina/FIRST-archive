@@ -27,7 +27,7 @@ This repository of game materials from across the history of *FISRT* robotics wa
 | 2009 | Lunacy | [Game Manual](FRC/FRC-2009-Lunacy/2009-lunacy-complete-manual.pdf) | [Updates](FRC/FRC-2009-Lunacy/2009-team-updates.pdf) |
 | 2008 | FIRST Overdrive | [Game Manual](FRC/FRC-2008-Overdrive/2008-overdrive-manual.pdf) | [Updates](FRC/FRC-2008-Overdrive/2008-overdrive-team-updates.pdf) |
 | 2007 | Rack 'n Roll | [Game Manual](FRC/FRC-2007-RackNRoll/2007-racknroll-manual.pdf) |
-| 2006 | Aim High |
+| 2006 | Aim High | | | [Spectator Flyer](FRC/FRC-2006-AimHigh/2006-aimhigh-one-page.pdf) |
 | 2005 | Triple Play | [The Game](FRC/FRC-2005-TriplePlay/2005-the-game.pdf) \| [The Arena](FRC/FRC-2005-TriplePlay/2005-the-arena.pdf) |
 | 2004 | FIRST Frenzy: Raising the Bar | [The Game](FRC/FRC-2004-Frenzy/2004-the-game.pdf) \| [The Arena](FRC/FRC-2004-Frenzy/2004-the-arena.pdf) |
 | 2003 | Stack Attack | [The Game](FRC/FRC-2003-StackAttack/2003-the-game.pdf) \| [The Arena](FRC/FRC-2003-StackAttack/2003-the-arena.pdf) |
