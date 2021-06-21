@@ -85,7 +85,7 @@ This repository of game materials from across the history of *FISRT* robotics wa
 | 2007 | Power Puzzle | [Challenge](FLL/FLL-2007-PowerPuzzle/challenge.pdf) | [Build Instructions](FLL/FLL-2007-PowerPuzzle/Build%20Instructions) |
 | 2006 | Nano Quest | [Challenge](FLL/FLL-2006-NanoQuest/challenge.pdf) | [Build Instructions](FLL/FLL-2006-NanoQuest/Build%20Instructions) |
 | 2005 | Ocean Odyssey |
-| 2004 | No Limits |
+| 2004 | No Limits | | [Build Instructions](FLL/FLL-2004-NoLimits/Build%20Instructions) |
 | 2003 | Mission Mars |
 | 2002 | City Sigts |
 | 2001 | Arctic Impact |
