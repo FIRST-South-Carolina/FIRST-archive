@@ -1,6 +1,6 @@
-# FIRST-archive
+# _FIRST_ Archive
 
-This repository of game materials from across the history of *FIRST* robotics was started as the official archives are lacking a lot of resources.
+This repository of game materials from across the history of *FIRST* robotics programs was started as the official archives are lacking a lot of resources.
 
 | Program | Offical *FIRST* Archive link |
 | --- | --- |
