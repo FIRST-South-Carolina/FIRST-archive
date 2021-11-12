@@ -32,7 +32,7 @@ This repository of game materials from across the history of _FIRST_ robotics pr
 | 2005 | Triple Play | [The Game](FRC/FRC-2005-TriplePlay/2005-the-game.pdf) \| [The Arena](FRC/FRC-2005-TriplePlay/2005-the-arena.pdf) |
 | 2004 | FIRST Frenzy: Raising the Bar | [The Game](FRC/FRC-2004-Frenzy/2004-the-game.pdf) \| [The Arena](FRC/FRC-2004-Frenzy/2004-the-arena.pdf) |
 | 2003 | Stack Attack | [The Game](FRC/FRC-2003-StackAttack/2003-the-game.pdf) \| [The Arena](FRC/FRC-2003-StackAttack/2003-the-arena.pdf) |
-| 2002 | Zone Zeal | [Game Manual](FRC/FRC-2002-ZoneZeal/2002-game-manual.pdf)
+| 2002 | Zone Zeal | [Game Manual](FRC/FRC-2002-ZoneZeal/2002-game-manual.pdf) |
 | 2001 | Diabolical Dynamics |
 | 2000 | Co-Opertition FIRST |
 | 1999 | Double Trouble |
@@ -48,16 +48,16 @@ This repository of game materials from across the history of _FIRST_ robotics pr
 
 ## FTC
 
-| Year | Name | Game Manual Part 1 | Game Manual Part 2 |
+| Year | Name | Game Manual Part 1 | Game Manual Part 2 | One-Page Description |
 | --- | --- | --- | --- |
-| 2020 | Ultimate Goal | Game Manual Part 1 - [Traditional](FTC/FTC-2020-UltimateGoal/game-manual-part-1-traditional-events.pdf) \| [Remote](FTC/FTC-2020-UltimateGoal/game-manual-part-1-remote-events.pdf) | Game Manual Part 2 - [Traditional](FTC/FTC-2020-UltimateGoal/game-manual-part-2-traditional-events.pdf) \| [Remote](FTC/FTC-2020-UltimateGoal/game-manual-part-2-remote-events.pdf) |
+| 2020 | Ultimate Goal | Game Manual Part 1 - [Traditional](FTC/FTC-2020-UltimateGoal/game-manual-part-1-traditional-events.pdf) \| [Remote](FTC/FTC-2020-UltimateGoal/game-manual-part-1-remote-events.pdf) | Game Manual Part 2 - [Traditional](FTC/FTC-2020-UltimateGoal/game-manual-part-2-traditional-events.pdf) \| [Remote](FTC/FTC-2020-UltimateGoal/game-manual-part-2-remote-events.pdf) | [One-Page Description](FTC/FTC-2020-UltimateGoal/ftc-spectator-flyer-fy21.pdf) |
 | 2019 | Skystone | [Game Manual Part 1](FTC/FTC-2019-Skystone/game-manual-part-1.pdf) | [Game Manual Part 2](FTC/FTC-2019-Skystone/game-manual-part-2.pdf) |
-| 2018 | Rover Ruckus | [Game Manual Part 1](FTC/FTC-2018-RoverRuckus/game-manual-part-1.pdf) | [Game Manual Part 2](FTC/FTC/FTC-2018-RoverRuckus/game-manual-part-2.pdf) |
-| 2017 | Relic Recovery | [Game Manual Part 1](FTC/FTC-2017-RelicRecovery/game-manual-part-1.pdf) | [Game Manual Part 2](FTC/FTC-2017-RelicRecovery/game-manual-part-2.pdf) |
-| 2016 | Velocity Vortex | [Game Manual Part 1](FTC/FTC-2016-VelocityVortex/game-manual-part-1.pdf) | [Game Manual Part 2](FTC/FTC-2016-VelocityVortex/game-manual-part-2.pdf) |
-| 2015 | RES-Q | [Game Manual Part 1](FTC/FTC-2015-RES-Q/game-manual-part-1.pdf) | [Game Manual Part 2](FTC/FTC-2015-RES-Q/game-manual-part-2.pdf) |
+| 2018 | Rover Ruckus | [Game Manual Part 1](FTC/FTC-2018-RoverRuckus/game-manual-part-1.pdf) | [Game Manual Part 2](FTC/FTC/FTC-2018-RoverRuckus/game-manual-part-2.pdf) | [One-Page Description](FTC/FTC-2018-RoverRuckus/first-ftc-spectatorflyer19-ft031-ltr.pdf) |
+| 2017 | Relic Recovery | [Game Manual Part 1](FTC/FTC-2017-RelicRecovery/game-manual-part-1.pdf) | [Game Manual Part 2](FTC/FTC-2017-RelicRecovery/game-manual-part-2.pdf) | [One-Page Description](FTC/FTC-2017-RelicRecovery/first-spectatorflyer18-ftc-ltr-dec-form.pdf) |
+| 2016 | Velocity Vortex | [Game Manual Part 1](FTC/FTC-2016-VelocityVortex/game-manual-part-1.pdf) | [Game Manual Part 2](FTC/FTC-2016-VelocityVortex/game-manual-part-2.pdf) | [One-Page Description](FTC/FTC-2016-VelocityVortex/VelocityVortexOnePage.pdf) |
+| 2015 | RES-Q | [Game Manual Part 1](FTC/FTC-2015-RES-Q/game-manual-part-1.pdf) | [Game Manual Part 2](FTC/FTC-2015-RES-Q/game-manual-part-2.pdf) | [One-Page Description](FTC/FTC-2015-RES-Q/first-resq-one-page.pdf) |
 | 2014 | Cascade Effect | [Game Manual Part 1](FTC/FTC-2014-CascadeEffect/game-manual-part-1.pdf) | [Game Manual Part 2](FTC/FTC-2014-CascadeEffect/game-manual-part-2.pdf) |
-| 2013 | Block Party! | [Game Manual Part 1](FTC/FTC-2013-BlockParty/game-manual-part-1.pdf) | [Game Manual Part 2](FTC/FTC-2013-BlockParty/game-manual-part-2.pdf) |
+| 2013 | Block Party! | [Game Manual Part 1](FTC/FTC-2013-BlockParty/game-manual-part-1.pdf) | [Game Manual Part 2](FTC/FTC-2013-BlockParty/game-manual-part-2.pdf) | [One-Page Description](FTC/FTC-2013-BlockParty/FTC_BlockParty_Game_1page.pdf) |
 | 2012 | Ring It Up! |
 | 2011 | Bowled Over! |
 | 2010 | Get Over It! |
