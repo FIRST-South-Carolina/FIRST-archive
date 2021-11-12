@@ -49,8 +49,8 @@ This repository of game materials from across the history of _FIRST_ robotics pr
 ## FTC
 
 | Year | Name | Game Manual Part 1 | Game Manual Part 2 | One-Page Description |
-| --- | --- | --- | --- |
-| 2020 | Ultimate Goal | Game Manual Part 1 - [Traditional](FTC/FTC-2020-UltimateGoal/game-manual-part-1-traditional-events.pdf) \| [Remote](FTC/FTC-2020-UltimateGoal/game-manual-part-1-remote-events.pdf) | Game Manual Part 2 - [Traditional](FTC/FTC-2020-UltimateGoal/game-manual-part-2-traditional-events.pdf) \| [Remote](FTC/FTC-2020-UltimateGoal/game-manual-part-2-remote-events.pdf) | [One-Page Description](FTC/FTC-2020-UltimateGoal/ftc-spectator-flyer-fy21.pdf) |
+| --- | --- | --- | --- | --- |
+| 2020 | Ultimate Goal | Game Manual Part 1<br/>[Traditional](FTC/FTC-2020-UltimateGoal/game-manual-part-1-traditional-events.pdf) \| [Remote](FTC/FTC-2020-UltimateGoal/game-manual-part-1-remote-events.pdf) | Game Manual Part 2<br/>[Traditional](FTC/FTC-2020-UltimateGoal/game-manual-part-2-traditional-events.pdf) \| [Remote](FTC/FTC-2020-UltimateGoal/game-manual-part-2-remote-events.pdf) | [One-Page Description](FTC/FTC-2020-UltimateGoal/ftc-spectator-flyer-fy21.pdf) |
 | 2019 | Skystone | [Game Manual Part 1](FTC/FTC-2019-Skystone/game-manual-part-1.pdf) | [Game Manual Part 2](FTC/FTC-2019-Skystone/game-manual-part-2.pdf) |
 | 2018 | Rover Ruckus | [Game Manual Part 1](FTC/FTC-2018-RoverRuckus/game-manual-part-1.pdf) | [Game Manual Part 2](FTC/FTC/FTC-2018-RoverRuckus/game-manual-part-2.pdf) | [One-Page Description](FTC/FTC-2018-RoverRuckus/first-ftc-spectatorflyer19-ft031-ltr.pdf) |
 | 2017 | Relic Recovery | [Game Manual Part 1](FTC/FTC-2017-RelicRecovery/game-manual-part-1.pdf) | [Game Manual Part 2](FTC/FTC-2017-RelicRecovery/game-manual-part-2.pdf) | [One-Page Description](FTC/FTC-2017-RelicRecovery/first-spectatorflyer18-ftc-ltr-dec-form.pdf) |
