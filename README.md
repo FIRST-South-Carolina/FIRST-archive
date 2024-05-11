@@ -1,12 +1,13 @@
-# FIRST-archive
-This repository of game materials from across the history of *FISRT* robotics was started as the official archives are lacking a lot of resources.
+# _FIRST_ Archive
 
-| Program | Offical *FIRST* Archive link |
+This repository of game materials from across the history of _FIRST_ robotics programs was started as the official archives are lacking a lot of resources.
+
+| Program | Offical _FIRST_ Archive link |
 | --- | --- |
 | FRC | https://www.firstinspires.org/resource-library/frc/archived-game-documentation |
 | FTC | https://www.firstinspires.org/resource-library/ftc/archived-game-documentation |
 | FLL | http://www.firstlegoleague.org/past-challenges |
-| FLL Jr| http://www.firstlegoleaguejr.org/past-challenges |
+| FLL Jr | http://www.firstlegoleaguejr.org/past-challenges |
 
 
 ## FRC
@@ -31,7 +32,7 @@ This repository of game materials from across the history of *FISRT* robotics wa
 | 2005 | Triple Play | [The Game](FRC/FRC-2005-TriplePlay/2005-the-game.pdf) \| [The Arena](FRC/FRC-2005-TriplePlay/2005-the-arena.pdf) |
 | 2004 | FIRST Frenzy: Raising the Bar | [The Game](FRC/FRC-2004-Frenzy/2004-the-game.pdf) \| [The Arena](FRC/FRC-2004-Frenzy/2004-the-arena.pdf) |
 | 2003 | Stack Attack | [The Game](FRC/FRC-2003-StackAttack/2003-the-game.pdf) \| [The Arena](FRC/FRC-2003-StackAttack/2003-the-arena.pdf) |
-| 2002 | Zone Zeal | [Game Manual](FRC/FRC-2002-ZoneZeal/2002-game-manual.pdf)
+| 2002 | Zone Zeal | [Game Manual](FRC/FRC-2002-ZoneZeal/2002-game-manual.pdf) |
 | 2001 | Diabolical Dynamics |
 | 2000 | Co-Opertition FIRST |
 | 1999 | Double Trouble |
@@ -47,15 +48,16 @@ This repository of game materials from across the history of *FISRT* robotics wa
 
 ## FTC
 
-| Year | Name | Game Manual part 1 | Game Manual part 2 |
-| --- | --- | --- | --- |
-| 2019 | Skystone | [Game Manual part 1](FTC/FTC-2019-Skystone/game-manual-part-1.pdf) | [Game Manual part 2](FTC/FTC-2019-Skystone/game-manual-part-2.pdf) |
-| 2018 | Rover Ruckus | [Game Manual part 1](FTC/FTC-2018-RoverRuckus/game-manual-part-1.pdf) | [Game Manual part 2](FTC/FTC/FTC-2018-RoverRuckus/game-manual-part-2.pdf) |
-| 2017 | Relic Recovery | [Game Manual part 1](FTC/FTC-2017-RelicRecovery/game-manual-part-1.pdf) | [Game Manual part 2](FTC/FTC-2017-RelicRecovery/game-manual-part-2.pdf) |
-| 2016 | Velocity Vortex | [Game Manual part 1](FTC/FTC-2016-VelocityVortex/game-manual-part-1.pdf) | [Game Manual part 2](FTC/FTC-2016-VelocityVortex/game-manual-part-2.pdf) |
-| 2015 | RES-Q | [Game Manual part 1](FTC/FTC-2015-RES-Q/game-manual-part-1.pdf) | [Game Manual part 2](FTC/FTC-2015-RES-Q/game-manual-part-2.pdf) |
-| 2014 | Cascade Effect | [Game Manual part 1](FTC/FTC-2014-CascadeEffect/game-manual-part-1.pdf) | [Game Manual part 2](FTC/FTC-2014-CascadeEffect/game-manual-part-2.pdf) |
-| 2013 | Block Party! | [Game Manual part 1](FTC/FTC-2013-BlockParty/game-manual-part-1.pdf) | [Game Manual part 2](FTC/FTC-2013-BlockParty/game-manual-part-2.pdf) |
+| Year | Name | Game Manual Part 1 | Game Manual Part 2 | One-Page Description |
+| --- | --- | --- | --- | --- |
+| 2020 | Ultimate Goal | Game Manual Part 1<br/>[Traditional](FTC/FTC-2020-UltimateGoal/game-manual-part-1-traditional-events.pdf) \| [Remote](FTC/FTC-2020-UltimateGoal/game-manual-part-1-remote-events.pdf) | Game Manual Part 2<br/>[Traditional](FTC/FTC-2020-UltimateGoal/game-manual-part-2-traditional-events.pdf) \| [Remote](FTC/FTC-2020-UltimateGoal/game-manual-part-2-remote-events.pdf) | [One-Page Description](FTC/FTC-2020-UltimateGoal/ftc-spectator-flyer-fy21.pdf) |
+| 2019 | Skystone | [Game Manual Part 1](FTC/FTC-2019-Skystone/game-manual-part-1.pdf) | [Game Manual Part 2](FTC/FTC-2019-Skystone/game-manual-part-2.pdf) |
+| 2018 | Rover Ruckus | [Game Manual Part 1](FTC/FTC-2018-RoverRuckus/game-manual-part-1.pdf) | [Game Manual Part 2](FTC/FTC/FTC-2018-RoverRuckus/game-manual-part-2.pdf) | [One-Page Description](FTC/FTC-2018-RoverRuckus/first-ftc-spectatorflyer19-ft031-ltr.pdf) |
+| 2017 | Relic Recovery | [Game Manual Part 1](FTC/FTC-2017-RelicRecovery/game-manual-part-1.pdf) | [Game Manual Part 2](FTC/FTC-2017-RelicRecovery/game-manual-part-2.pdf) | [One-Page Description](FTC/FTC-2017-RelicRecovery/first-spectatorflyer18-ftc-ltr-dec-form.pdf) |
+| 2016 | Velocity Vortex | [Game Manual Part 1](FTC/FTC-2016-VelocityVortex/game-manual-part-1.pdf) | [Game Manual Part 2](FTC/FTC-2016-VelocityVortex/game-manual-part-2.pdf) | [One-Page Description](FTC/FTC-2016-VelocityVortex/VelocityVortexOnePage.pdf) |
+| 2015 | RES-Q | [Game Manual Part 1](FTC/FTC-2015-RES-Q/game-manual-part-1.pdf) | [Game Manual Part 2](FTC/FTC-2015-RES-Q/game-manual-part-2.pdf) | [One-Page Description](FTC/FTC-2015-RES-Q/first-resq-one-page.pdf) |
+| 2014 | Cascade Effect | [Game Manual Part 1](FTC/FTC-2014-CascadeEffect/game-manual-part-1.pdf) | [Game Manual Part 2](FTC/FTC-2014-CascadeEffect/game-manual-part-2.pdf) |
+| 2013 | Block Party! | [Game Manual Part 1](FTC/FTC-2013-BlockParty/game-manual-part-1.pdf) | [Game Manual Part 2](FTC/FTC-2013-BlockParty/game-manual-part-2.pdf) | [One-Page Description](FTC/FTC-2013-BlockParty/FTC_BlockParty_Game_1page.pdf) |
 | 2012 | Ring It Up! |
 | 2011 | Bowled Over! |
 | 2010 | Get Over It! |
@@ -70,9 +72,10 @@ This repository of game materials from across the history of *FISRT* robotics wa
 
 | Year | Name | Challenge | Build Instructions |
 | --- | --- | --- | --- |
-| 2019 | City Shaper | [Challenge](FLL/FLL-2019-CityShaper/challenge.pdf) | [Build Instructions](FLL/FLL-2019-CityShaper/Build%20Instructions)
+| 2020 | RePlay | [Challenge](FLL/FLL-2019-CityShaper/challenge.pdf) | [Build Instructions](FLL/FLL-2019-CityShaper/Build%20Instructions) |
+| 2019 | City Shaper | [Challenge](FLL/FLL-2019-CityShaper/challenge.pdf) | [Build Instructions](FLL/FLL-2019-CityShaper/Build%20Instructions) |
 | 2018 | Into Orbit |[Challenge](FLL/FLL-2018-IntoOrbit/challenge.pdf) | [Build Instructions](FLL/FLL-2018-IntoOrbit/Build%20Instructions) |
-| 2017 | Hydro Dynamics | [Challenge](FLL/FLL-2017-HydroDynamics/challenge%20guide.pdf) | [Build Instructions](FLL/FLL-2017-HydroDynamics/Build%20Instructions)
+| 2017 | Hydro Dynamics | [Challenge](FLL/FLL-2017-HydroDynamics/challenge%20guide.pdf) | [Build Instructions](FLL/FLL-2017-HydroDynamics/Build%20Instructions) |
 | 2016 | Animal Allies | [Challenge](FLL/FLL-2016-AnimalAllies/challenge%20guide.pdf) | [Build Instructions](FLL/FLL-2016-AnimalAllies/Build%20Instructions) |
 | 2015 | Trash Trek | [Challenge](FLL/FLL-2015-TrashTrek/challenge.pdf) | [Build Instructions](FLL/FLL-2015-TrashTrek/Build%20Instructions) |
 | 2014 | World Class | [Challenge](FLL/FLL-2014-WorldClass/challenge.pdf) | [Build Instructions](FLL/FLL-2014-WorldClass/Build%20Instructions) |
@@ -98,9 +101,10 @@ This repository of game materials from across the history of *FISRT* robotics wa
 
 | Year | Name | Challenge | Build Instructions |
 | --- | --- | --- | --- |
-| 2019 | Boomtown Build | [Challenge](FLLJr/FLLJr-2019-BoomtownBuild/boomtown-build-challenge.pdf) | [Build Instructions](FLLJr/FLLJr-2019-BoomtownBuild/Build%20Instructions)
+| 2020 | Playmakers | [Challenge](FLLJr/FLLJr-2020-Playmakers/challenge.pdf) |
+| 2019 | Boomtown Build | [Challenge](FLLJr/FLLJr-2019-BoomtownBuild/boomtown-build-challenge.pdf) | [Build Instructions](FLLJr/FLLJr-2019-BoomtownBuild/Build%20Instructions) |
 | 2018 | Mission Moon | [Challenge](FLLJr/FLLJr-2018-MissionMoon/Mission_Moon_Build_Instructions.pdf) | [Build Instructions](FLLJr/FLLJr-2018-MissionMoon/Mission_Moon_Build_Instructions.pdf) |
-| 2017 | Aqua Adventure | [Challenge](FLLJr/FLLJr-2017-AquaAdventure/aqua-adventure-challenge-letter.pdf) | [Build Instructions](FLLJr/FLLJr-2017-AquaAdventure/Build%20Instructions)
+| 2017 | Aqua Adventure | [Challenge](FLLJr/FLLJr-2017-AquaAdventure/aqua-adventure-challenge-letter.pdf) | [Build Instructions](FLLJr/FLLJr-2017-AquaAdventure/Build%20Instructions) |
 | 2016 | Creature Craze | [Challenge](FLLJr/FLLJr-2016-CreatureCraze/creaturecraze-challengedocument.pdf) |
 | 2015 | Waste Wise | [Challenge](FLLJr/FLLJr-2015-WasteWise/2015-waste-wise.pdf) |
 | 2014 | Think Tank | [Challenge](FLLJr/FLLJr-2014-ThinkTank/flljr-2014-jrfll-think-tank.pdf) |
